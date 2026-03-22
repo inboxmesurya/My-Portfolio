@@ -1,19 +1,19 @@
 # MyPortfolio
 
-A personal portfolio website created as part of my **User Interface Design course assignment**. This website showcases my profile, skills, projects, and achievements in a clean and modern layout.
+A personal portfolio website created as part of my User Interface Design course assignment. This website showcases my profile, skills, projects, and achievements in a clean and modern layout.
 
 🔗 **Portfolio Link:** https://inboxmesurya.github.io/My-Portfolio/
 
 ---
 
-## 🎨 Design & Theme
+## Design & Theme
 
-The website uses a **dark theme with teal accents**, giving it a modern and minimal look.
+The website uses a dark theme with teal accents, giving it a modern and minimal look.
 White and grey shades are used for text to maintain clarity and readability.
 
 ---
 
-## 🧩 Structure
+## Structure
 
 The project is built using:
 
@@ -24,7 +24,7 @@ All styling is handled using a single `style.css` file with responsive design an
 
 ---
 
-## 🌐 Sections
+## Sections
 
 * **Home** → Introduction and profile
 * **About** → Background and interests
@@ -36,7 +36,7 @@ All styling is handled using a single `style.css` file with responsive design an
 
 ---
 
-## ✨ Features
+## Features
 
 * Responsive design
 * Modern UI with hover effects
@@ -45,15 +45,15 @@ All styling is handled using a single `style.css` file with responsive design an
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Download the project folder
 2. Open `index.html` in a browser
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
-To showcase my **skills, projects, and experience** while demonstrating my frontend development abilities.
+To showcase my skills, projects, and experience while demonstrating my frontend development abilities.
 
 ---
