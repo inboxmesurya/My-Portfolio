@@ -1,59 +1,43 @@
 # MyPortfolio
 
-A personal portfolio website created as part of my User Interface Design course assignment. This website showcases my profile, skills, projects, and achievements in a clean and modern layout.
+## Project Overview
 
-🔗 **Portfolio Link:** https://inboxmesurya.github.io/My-Portfolio/
+This is my personal portfolio website created as part of my User Interface Design course assignment. The website is designed to showcase my profile, skills, projects, and achievements in a simple and visually appealing manner. It follows a clean and modern layout, making it easy for users to navigate and understand my work.
+
+🔗 Portfolio Link: https://inboxmesurya.github.io/My-Portfolio/
 
 ---
 
 ## Design & Theme
 
-The website uses a dark theme with teal accents, giving it a modern and minimal look.
-White and grey shades are used for text to maintain clarity and readability.
+The website uses a dark theme with teal accents to give it a modern and professional look. White and grey shades are used for text to maintain clarity and readability. The design is kept minimal while still including smooth transitions and hover effects to enhance user experience.
 
 ---
 
-## Structure
+## Technologies Used
 
-The project is built using:
-
-* **HTML** for structure
-* **CSS** for styling and layout
-
-All styling is handled using a single `style.css` file with responsive design and animations.
+The entire project is built using HTML5 and CSS3. HTML is used to structure the content of the website, while CSS is used for styling, layout design, and responsiveness. All styles are managed in a single CSS file for simplicity and easier maintenance.
 
 ---
 
-## Sections
+## Website Structure
 
-* **Home** → Introduction and profile
-* **About** → Background and interests
-* **Education** → Academic details
-* **Skills** → Technical and soft skills
-* **Projects** → Project showcase
-* **Achievements** → Certifications and activities
-* **Contact** → Ways to connect
+The portfolio consists of multiple sections, each serving a specific purpose. The Home section introduces who I am along with a brief description. The About section provides more details about my background and interests. The Education section highlights my academic journey. The Skills section displays both technical and soft skills. The Projects section showcases my work using a card-based layout, while the Achievements section includes certifications and activities. Finally, the Contact section provides ways to connect with me.
 
 ---
 
 ## Features
 
-* Responsive design
-* Modern UI with hover effects
-* Project cards with overlay
-* Clean layout and smooth transitions
+The website includes a responsive layout that works across different devices, along with smooth hover effects and transitions. It also uses a clean UI design and structured content presentation to improve readability and user experience.
 
 ---
 
 ## How to Run
 
-1. Download the project folder
-2. Open `index.html` in a browser
+To run the project, simply download the project folder and open the `index.html` file in any web browser. No additional setup or installation is required.
 
 ---
 
 ## Purpose
 
-To showcase my skills, projects, and experience while demonstrating my frontend development abilities.
-
----
+The main purpose of this project is to showcase my skills, projects, and experience while demonstrating my understanding of frontend development and user interface design.
